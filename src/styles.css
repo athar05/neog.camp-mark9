@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
+
+button {
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  border: solid black 0.1rem;
+  background-color: powderblue;
+}
